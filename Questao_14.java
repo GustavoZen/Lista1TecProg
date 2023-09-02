@@ -1,6 +1,6 @@
 package lista_01;
 
-public class Questão_14 {
+public class Questao_14 {
 	public static void main(String[] args) {
 	  int A=15,B=5;
 	  if(A>10) {
