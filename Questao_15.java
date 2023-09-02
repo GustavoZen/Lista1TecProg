@@ -1,4 +1,4 @@
-package Lista_01;
+package lista_01;
 
 public class Questao_15 {
 	public static void main(String[] args) {
